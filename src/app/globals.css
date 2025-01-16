@@ -40,3 +40,10 @@ a {
     color-scheme: dark;
   }
 }
+
+main {
+  background-color: aquamarine;
+}
+.contactlayout {
+  border: solid red 5px;
+}
